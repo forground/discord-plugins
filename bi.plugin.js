@@ -14,7 +14,7 @@ const config = {
         version: "1.5.2",
         description: "Melhora o layout de um convite, melhorando posições, adicionando símbolos, banners, etc.",
         github: "https://github.com/forground/discord-plugins",
-        github_raw: "https://raw.githubusercontent.com/forground/discord-plugins/betterinvite.plugin.js",
+        github_raw: "https://raw.githubusercontent.com/forground/discord-plugins/bi.plugin.js",
     },
     changelog: [
         {
