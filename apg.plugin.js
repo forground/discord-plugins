@@ -1,3 +1,5 @@
+// APG - Auto Play Gifs
+
 module.exports = (() => {
     const config = {
         info: {
